@@ -1,0 +1,15 @@
+{
+  "name": "xonovasolutions/tznic-whmcs-module",
+  "description": ".tz registration module for accredited registrars",
+  "minimum-stability": "stable",
+  "license": "GPL v3",
+  "authors": [
+    {
+      "name": "Marcel Ruhf",
+      "email": "marcel@xonovasolutions.com"
+    }
+  ],
+  "require": {
+    "box/bart": "1.5.0"
+  }
+}

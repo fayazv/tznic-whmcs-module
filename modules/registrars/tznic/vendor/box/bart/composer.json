@@ -1,0 +1,31 @@
+{
+  "name": "box/bart",
+  "type": "library",
+  "description": "Build and Release Tools for PHP",
+  "keywords": ["bart","dependency injection","phpunit"],
+  "homepage": "http://github.com/box/bart",
+  "license": "Apache 2.0",
+  "authors": [
+    {
+      "name": "Benjamin VanEvery",
+      "email": "vaenvery@gmail.com",
+      "homepage": "http://asheepapart.blogspot.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*",
+    "box/shmock" : "1.0.0"
+  },
+  "autoload": {
+    "psr-0": {"Bart": "src/"}
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.1-dev"
+    }
+  }
+}
+

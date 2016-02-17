@@ -1,0 +1,56 @@
+[
+    {
+        "name": "box/bart",
+        "version": "1.5.0",
+        "version_normalized": "1.5.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/box/bart.git",
+            "reference": "ac382b4bf3ed330ff5fabace6d939788006a1094"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/box/bart/zipball/ac382b4bf3ed330ff5fabace6d939788006a1094",
+            "reference": "ac382b4bf3ed330ff5fabace6d939788006a1094",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.4.0"
+        },
+        "require-dev": {
+            "box/shmock": "1.0.0",
+            "phpunit/phpunit": "3.7.*"
+        },
+        "time": "2014-03-25 22:19:38",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.1-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Bart": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "Apache 2.0"
+        ],
+        "authors": [
+            {
+                "name": "Benjamin VanEvery",
+                "email": "vaenvery@gmail.com",
+                "homepage": "http://asheepapart.blogspot.com"
+            }
+        ],
+        "description": "Build and Release Tools for PHP",
+        "homepage": "http://github.com/box/bart",
+        "keywords": [
+            "bart",
+            "dependency injection",
+            "phpunit"
+        ]
+    }
+]

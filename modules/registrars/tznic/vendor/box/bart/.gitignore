@@ -1,0 +1,7 @@
+*.swp
+
+/nbproject
+/.idea/
+bart.iml
+*~
+/vendor
