@@ -13,4 +13,4 @@ This registrar module allows tzNIC-accredited registrars to register domains wit
 This software is licensed under the Apache License, version 2.0, available at: <http://www.apache.org/licenses/LICENSE-2.0.html>. A copy of this license is also included with this software's LICENSE.md file.
 
 ## Contributors
-* Marcel Ruhf ([marcel@marcelruhf.com])
+* Marcel Ruhf [(marcel@marcelruhf.com)](mailto:marcel@marcelruhf.com)
