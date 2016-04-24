@@ -10,8 +10,7 @@ This registrar module allows tzNIC-accredited registrars to register domains wit
 * Change nameserver details
 
 ## License ##
-This software is licensed under the Apache License, version 2.0, available at: <http://www.apache.org/licenses/LICENSE-2.0.html>
-A copy of this license is also included with this software's LICENSE.md file.
+This software is licensed under the Apache License, version 2.0, available at: <http://www.apache.org/licenses/LICENSE-2.0.html>. A copy of this license is also included with this software's LICENSE.md file.
 
 ## Contributors
 * Marcel Ruhf (Xonova Solutions Ltd) [marcel@xonovasolutions.com](mailto:marcel@xonovasolutions.com)
